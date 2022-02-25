@@ -1,0 +1,39 @@
+.inputButton{
+    width: 60px !important;
+    margin: 6px !important
+}
+
+.inputhalfButton{
+    width: 48% !important;
+    margin: 2px !important;
+
+}
+
+.inputclearButton{
+    width: 48% !important;
+}
+
+
+.inputFeild{
+    width: 98% !important;
+}
+
+body{
+    background-color: rgb(43, 27, 68) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    object-fit: cover;
+}
+
+.clearBtn{
+    width: 100%;
+    margin-top: 10px;
+    background-color: rgb(216, 170, 213);
+}
+.btn{
+    background-color: rgb(184, 166, 139);
+    width: 25px;
+    margin: 1px;
+}
